@@ -32,19 +32,16 @@ The project uses a dataset with the following columns:
 
    ```bash
    git clone https://github.com/Mokhtar7775/customer-churn-prediction.git
-   ```
-
+   
 2. Install the required dependencies:
 
    ```bash
    pip install -r requirements.txt
-   ```
-
+   
 3. Run the Jupyter notebooks:
 
    ```bash
    jupyter notebook
-   ```
 
 ## Model Building
 
@@ -53,3 +50,4 @@ The project uses machine learning algorithms such as Logistic Regression, Random
 ## Results
 
 - Gradient Boosting Accuracy: 86%
+```
