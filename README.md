@@ -1,4 +1,3 @@
-```markdown
 # Customer Churn Prediction Project
 
 ## Overview
@@ -50,4 +49,3 @@ The project uses machine learning algorithms such as Logistic Regression, Random
 ## Results
 
 - Gradient Boosting Accuracy: 86%
-```
